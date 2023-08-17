@@ -1,0 +1,18 @@
+I’m looking for someone to build game in python using pygame library,
+The game is very simple as following:
+Two players, each player should score most balls in the opponent goal net to add points before timer reach zero.
+
+Team 1 can score using following keys in keyboard
+Key A will add to the score 1 point
+Key S will add to the score 5 points
+Key D will add to the score 10 points
+
+Team 2 can score using following keys in keyboard
+Key L will add to the score 1 point
+Key K will add to the score 5 points
+Key J will add to the score 10 points
+
+The game starts as following
+• Screen1: the game announce the opponent names for 3 seconds (as showing in attached photo start.png) then transition to screen2
+• Screen2: the game starts with 0 scores each for define period of time (as showing in attached photo main.png) then transition to screen3
+• Screen3: the game transition to another screen announcing winner for 5 seconds (as showing in attached photo winner.png) then restart again to screen1
